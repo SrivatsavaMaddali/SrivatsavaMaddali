@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SrivatsavaMaddali
 - 👀 I’m interested in Data Science and Data Analytics
 - 🌱 I’m currently learning a lot including Python, Machine Learning, Web Dev
-Connect with me:
+- Connect with me:
 https://www.linkedin.com/in/sesha-mohan-srivatsava-maddali/
 <!---
 SrivatsavaMaddali/SrivatsavaMaddali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
