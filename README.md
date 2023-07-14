@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrivatsavaMaddali
-- 👀 I’m interested in Data Science and Data Analytics
-- 🌱 I’m currently learning a lot including Python, Machine Learning, Web Dev
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning quite a lot of things including Python, Machine Learning, Web Dev
 - Connect with me:
 https://www.linkedin.com/in/sesha-mohan-srivatsava-maddali/
 <!---
